@@ -7,23 +7,24 @@ globalvar graceperiod;
 globalvar interval;
 globalvar AllowMouseControl;
 globalvar paused;
+globalvar leveltype;
 globalvar LeavingPause;
 globalvar BombScore;
+globalvar fulllist;
 globalvar displayedScore;
 globalvar Fullscreenedthing;
 globalvar MutedThing;
 globalvar currentmusic;
 //colourlist
 //vital colours
-colours[0] = spr_explodingbox
-colours[1] = spr_redbox
-colours[2] = spr_purplebox
-colours[3] = spr_greenbox
-colours[4] = spr_bluebox
-colours[5] = spr_orangebox
-//misc colours
-//colours[6] = spr_yellowbox
-//colours[7] = spr_greybox
+fulllist[0] = spr_explodingbox
+fulllist[1] = spr_redbox
+fulllist[2] = spr_purplebox
+fulllist[3] = spr_greenbox
+fulllist[4] = spr_bluebox
+fulllist[5] = spr_orangebox
+fulllist[6] = spr_yellowbox
+fulllist[7] = spr_greybox
 
 
 //flippedcolourlist
@@ -34,6 +35,7 @@ colours1[3] = spr_greenboxf
 colours1[4] = spr_blueboxf
 colours1[5] = spr_orangeboxf
 //Settings
+leveltype = -1;
 PreviewSetting = 4;
 KeyRepeat = 1;
 graceperiod = 15;
