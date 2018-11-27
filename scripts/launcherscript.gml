@@ -1,8 +1,8 @@
 #define launcherscript
 movedist = 16
 mapoutlineoffset = 16
-leftborder = 96 //change leftborder to match in game placements
-rightborder = 384//change right border variable to match right wall of play area
+leftborder = obj_LoseBarL.x
+rightborder = obj_LoseBarR.x+obj_LoseBarR.sprite_width
 repeatdelay = 0.15
 if paused = 0{
 
