@@ -3,7 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="3" name="datafiles">
+  <datafiles number="4" name="datafiles">
     <datafile>
       <name>Voces-Regular.ttf</name>
       <exists>-1</exists>
@@ -54,6 +54,23 @@
         </Config>
       </ConfigOptions>
       <filename>second-font.ttf</filename>
+    </datafile>
+    <datafile>
+      <name>default.Blox</name>
+      <exists>-1</exists>
+      <size>55</size>
+      <exportAction>2</exportAction>
+      <exportDir></exportDir>
+      <overwrite>0</overwrite>
+      <freeData>-1</freeData>
+      <removeEnd>0</removeEnd>
+      <store>0</store>
+      <ConfigOptions>
+        <Config name="Default">
+          <CopyToMask>9223372036854775807</CopyToMask>
+        </Config>
+      </ConfigOptions>
+      <filename>default.Blox</filename>
     </datafile>
   </datafiles>
   <NewExtensions>
@@ -206,6 +223,19 @@
       <script>scripts\gj_datastore_update_user.gml</script>
       <script>scripts\gj_user_autologin.gml</script>
     </scripts>
+    <scripts name="GridGarbage">
+      <script>scripts\GridGarbage.gml</script>
+      <script>scripts\gengrid.gml</script>
+      <script>scripts\readgrid.gml</script>
+      <script>scripts\RegenGrid.gml</script>
+      <script>scripts\SaveGridToFile.gml</script>
+      <script>scripts\GridLoader.gml</script>
+    </scripts>
+    <scripts name="levelgarbage">
+      <script>scripts\LoadLevelGarbage.gml</script>
+      <script>scripts\NonCus.gml</script>
+      <script>scripts\LoadCusLevel.gml</script>
+    </scripts>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font0</font>
@@ -318,6 +348,9 @@
     <object>objects\obj_extras</object>
     <object>objects\stopmenumusic</object>
     <object>objects\object78</object>
+    <object>objects\levleaucnher</object>
+    <object>objects\leveltyperNonCus</object>
+    <object>objects\leveltyperCus</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Title</room>
