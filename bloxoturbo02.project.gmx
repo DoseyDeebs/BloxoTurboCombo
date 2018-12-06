@@ -62,14 +62,12 @@
   <sounds name="sound">
     <sound>sound\main_menu_music</sound>
     <sound>sound\match</sound>
-    <sound>sound\levelmusic2</sound>
-    <sound>sound\level4</sound>
-    <sound>sound\song5</sound>
     <sound>sound\buttonsound</sound>
     <sound>sound\sound10</sound>
     <sound>sound\sound11</sound>
     <sound>sound\blockshoot</sound>
     <sound>sound\clickynoise</sound>
+    <sound>sound\GameMusic1</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_BasicBlock</sprite>
