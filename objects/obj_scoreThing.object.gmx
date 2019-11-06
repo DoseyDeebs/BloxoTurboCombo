@@ -73,7 +73,7 @@ draw_set_font(font0);
           </argument>
           <argument>
             <kind>0</kind>
-            <string>18</string>
+            <string>17</string>
           </argument>
           <argument>
             <kind>1</kind>
@@ -121,7 +121,7 @@ draw_set_font(font0);
           </argument>
           <argument>
             <kind>0</kind>
-            <string>20</string>
+            <string>17</string>
           </argument>
           <argument>
             <kind>1</kind>
