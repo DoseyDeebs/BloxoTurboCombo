@@ -4,7 +4,7 @@
   <width>480</width>
   <height>270</height>
   <vsnap>16</vsnap>
-  <hsnap>16</hsnap>
+  <hsnap>2</hsnap>
   <isometric>0</isometric>
   <speed>60</speed>
   <persistent>0</persistent>
@@ -31,7 +31,7 @@
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="1" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="background4" x="0" y="0" htiled="-1" vtiled="-1" hspeed="1" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -51,13 +51,11 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_backbutton" x="224" y="32" name="inst_128F3CED" locked="0" code="" scaleX="-0.91304349899292" scaleY="-0.91304349899292" colour="4294967295" rotation="0"/>
-    <instance objName="obj_MouseMode" x="144" y="64" name="inst_6B87A134" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object66" x="192" y="56" name="inst_2C2911D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_fullscreenerthingO" x="144" y="112" name="inst_557B7A92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_MuterO" x="144" y="160" name="inst_9FFC0641" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object71" x="192" y="104" name="inst_E7BDC86F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object72" x="192" y="152" name="inst_AA813CAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_backbutton" x="32" y="32" name="inst_128F3CED" locked="0" code="" scaleX="-0.91304349899292" scaleY="-0.91304349899292" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fullscreenerthingO" x="224" y="64" name="inst_557B7A92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_MuterO" x="226" y="176" name="inst_9FFC0641" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object71" x="146" y="96" name="inst_E7BDC86F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object72" x="198" y="208" name="inst_AA813CAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

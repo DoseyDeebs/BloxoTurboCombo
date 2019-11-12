@@ -181,7 +181,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>Gametestfield</room>
+            <room>roomproperties</room>
           </argument>
         </arguments>
       </action>

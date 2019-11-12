@@ -166,12 +166,17 @@
     <sprite>sprites\extras</sprite>
     <sprite>sprites\sprite66</sprite>
     <sprite>sprites\playpannel</sprite>
+    <sprite>sprites\BG1</sprite>
+    <sprite>sprites\BG2</sprite>
+    <sprite>sprites\sprite69</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background4</background>
     <background>background\background7</background>
     <background>background\background6</background>
     <background>background\background8</background>
+    <background>background\background5</background>
+    <background>background\background9</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -351,14 +356,20 @@
     <object>objects\levleaucnher</object>
     <object>objects\leveltyperNonCus</object>
     <object>objects\leveltyperCus</object>
+    <object>objects\obj_BG1</object>
+    <object>objects\object84</object>
+    <object>objects\gamestart</object>
+    <object>objects\gamestart2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Title</room>
     <room>rooms\MainMenu</room>
     <room>rooms\mainmenu2</room>
+    <room>rooms\roomproperties</room>
     <room>rooms\optionsroom</room>
     <room>rooms\ro_credits</room>
     <room>rooms\Gametestfield</room>
+    <room>rooms\Gametestfield2</room>
     <room>rooms\GAME_OVER</room>
     <room>rooms\play_menu</room>
   </rooms>
