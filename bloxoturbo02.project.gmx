@@ -167,7 +167,11 @@
     <sprite>sprites\sprite66</sprite>
     <sprite>sprites\playpannel</sprite>
     <sprite>sprites\BG1</sprite>
+    <sprite>sprites\BG11</sprite>
+    <sprite>sprites\BG13</sprite>
     <sprite>sprites\BG2</sprite>
+    <sprite>sprites\BG22</sprite>
+    <sprite>sprites\BG23</sprite>
     <sprite>sprites\sprite69</sprite>
   </sprites>
   <backgrounds name="background">
@@ -357,6 +361,7 @@
     <object>objects\leveltyperNonCus</object>
     <object>objects\leveltyperCus</object>
     <object>objects\obj_BG1</object>
+    <object>objects\object86</object>
     <object>objects\object84</object>
     <object>objects\gamestart</object>
     <object>objects\gamestart2</object>
