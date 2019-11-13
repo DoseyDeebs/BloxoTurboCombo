@@ -85,7 +85,6 @@
     <instance objName="obj_scoreThing" x="240" y="18" name="inst_2281409E" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_nextliner" x="160" y="240" name="inst_145258F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_holdobject" x="234" y="242" name="inst_B15DB66B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_transition1_1" x="544" y="-96" name="inst_42A06E69" locked="0" code="" scaleX="1.0020877122879" scaleY="0.877742946147919" colour="4294967295" rotation="0"/>
     <instance objName="object49" x="323" y="28" name="inst_5BA8C9B0" locked="0" code="" scaleX="0.980000019073486" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_LoseBarL" x="160" y="176" name="inst_1E08B01C" locked="0" code="" scaleX="1.03225803375244" scaleY="0.833333313465118" colour="4294967295" rotation="0"/>
     <instance objName="obj_LoseBarR" x="288" y="176" name="inst_088F9DDB" locked="0" code="" scaleX="1" scaleY="0.833333313465118" colour="4294967295" rotation="0"/>
