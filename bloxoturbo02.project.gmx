@@ -173,6 +173,7 @@
     <sprite>sprites\BG22</sprite>
     <sprite>sprites\BG23</sprite>
     <sprite>sprites\sprite69</sprite>
+    <sprite>sprites\sprite74</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background4</background>
@@ -181,6 +182,7 @@
     <background>background\background8</background>
     <background>background\background5</background>
     <background>background\background9</background>
+    <background>background\background11</background>
     <background>background\background10</background>
   </backgrounds>
   <paths name="paths"/>

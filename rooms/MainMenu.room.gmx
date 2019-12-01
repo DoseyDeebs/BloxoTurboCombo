@@ -4,7 +4,7 @@
   <width>480</width>
   <height>270</height>
   <vsnap>16</vsnap>
-  <hsnap>1</hsnap>
+  <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>60</speed>
   <persistent>0</persistent>
@@ -56,7 +56,7 @@
     <instance objName="cursor" x="112" y="272" name="inst_798358D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_selfdestruct" x="64" y="272" name="inst_1B5FBA7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_selfdestruct" x="48" y="272" name="inst_231FDA8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="logo" x="136" y="24" name="inst_328C8787" locked="0" code="" scaleX="0.571428596973419" scaleY="0.590909063816071" colour="4294967295" rotation="0"/>
+    <instance objName="logo" x="144" y="32" name="inst_328C8787" locked="0" code="" scaleX="0.571428596973419" scaleY="0.590909063816071" colour="4294967295" rotation="0"/>
     <instance objName="object75" x="192" y="256" name="inst_45309964" locked="0" code="" scaleX="0.424778759479523" scaleY="0.439999997615814" colour="4294967295" rotation="0"/>
     <instance objName="obj_NewGame" x="256" y="176" name="inst_07986C9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_options" x="246" y="187" name="inst_83D4DC24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
